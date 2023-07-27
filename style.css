@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 10rem;
+    font-family: 'Mulish', sans-serif;;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+}
+img {
+    height: 40%;
+    width: 100%;
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+}
