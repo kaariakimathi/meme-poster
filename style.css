@@ -5,7 +5,7 @@ h1{
     text-align: center;
     color: white;
     font-size: 3rem;
-    font-family: 'Mulish', sans-serif;;
+    font-family: 'Mulish', sans-serif;
 }
 p{
     text-align: center;
@@ -19,4 +19,5 @@ img {
 div {
     width: 50%;
     margin-left: 25%;
+    height: 60%
 }
